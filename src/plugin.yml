@@ -1,0 +1,12 @@
+main: me.carl230690.servermaintenance.Main
+version: 4.0
+name: ServerMaintenance
+commands:
+  maintenance:
+    description: ServerMaintenance Commands!
+  sm:
+    description: ServerMaintenance Commands!
+  m:
+    description: ServerMaintenance Commands!
+  servermaintenance:
+    description: ServerMaintenance Commands!

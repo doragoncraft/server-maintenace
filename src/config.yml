@@ -1,0 +1,24 @@
+WelcomeMOTD:
+  - '&6Server: &5Hello'
+  - '&4Server: &aAnother MOTD!'
+MaintenanceMOTD:
+  - '&8Server: &9Maintenance!'
+  - '&7Server: &1Another maintenance Message!'
+KickMessage: '&4Server Is Under Maintenance!'
+BroadcastTime:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 10
+  - 15
+  - 30
+  - 60
+BroadcastSecondsMessage: '&4Maintenance Mode In %s Seconds!'
+BroadcastSecondMessage: '&4Maintenance Mode In %s Second!'
+BroadcastMinuteMessage: '&4Maintenance Mode In % Minute!'
+BroadcastOnMaintenanceEnableMessage: '&4Server Is Now In Maintenance Mode'
+BroadcastOnMaintenanceDisableMessage: '&bServer Is No Longer In Maintenance Mode'
+CheckForUpdates: true
+enabled: false
